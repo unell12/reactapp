@@ -1,0 +1,33 @@
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    box-shadow: 0 13px 27px -5px rgba(50, 50, 93, 0.25), 0 8px 16px -8px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+    border-radius: 5px;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 100px;
+    width: 100%;
+    max-width: 520px;
+    font-weight: 300;
+}
+.title {
+    font-weight: 400;
+    font-size: 20px;
+}
+.year {
+    font-size: 15px;
+    margin-top: 10px;
+}
+.box img {
+    position: relative;
+    top: -100px;
+    max-width: 150px;
+    width: 100%;
+    margin-left: 320px;
+    box-shadow: 0 30px 60px -12px rgba(50, 50, 93, 0.25), 0 18px 36px -18px rgba(0, 0, 0, 0.025);
+}
