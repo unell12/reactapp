@@ -6,7 +6,7 @@ function Navigation() {
     return (
         <div className="nav">
             <Link to="/">Home</Link>
-            <Link to="/about">About page</Link>
+            <Link to=/*{{pathname: '/about', state: {forNavigation: true}}}*/"/about">About page</Link>
         </div>
     );
 }

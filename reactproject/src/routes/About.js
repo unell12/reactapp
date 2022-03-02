@@ -7,7 +7,7 @@ function About() {
             <span>
                 I like movies. So, I built this page.
             </span>
-            <span>❥ made by Al</span>
+            <span>❥ made by AL</span>
         </div>
     )
 }
